@@ -160,28 +160,25 @@ margin-bottom: 1px;
 border-color: black;
 }
 .me {
-   margin-left: 5%;
+margin-left: 5%;
 }
 #first {
-    margin: auto;
-    font-size: 10px;
+margin: auto;
+font-size: 10px;
 }
 #know {
-  margin-left: auto;
-    font-size: 12px;
+margin-left: auto;
+font-size: 12px;
 }
 #lists {
-  
-    margin-top: 2px;
-
-    font-size: 10px;
+margin-top: 2px;
+font-size: 10px;
 }
 h2 {
-    font-size: 12px;
-
+font-size: 12px;
 }
 .row {
-    margin-left: 5%;
+margin-left: 5%;
 }
 .navbar-collapse {  
 margin-left: 80%;
@@ -190,10 +187,9 @@ margin-bottom: 1px;
 .title {
 margin-top: 0px;
 }
-}
 
 
-    
+
 /*fonts
 font-family: 'Charm', cursive;
 font-family: 'Major Mono Display', monospace;
