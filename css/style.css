@@ -167,18 +167,18 @@ border-color: black;
     font-size: 10px;
 }
 #know {
-  
-    font-size: 15px;
+  margin-left: auto;
+    font-size: 12px;
 }
 #lists {
-    padding-top: 2px;
+  
     margin-top: 2px;
 
     font-size: 10px;
 }
 h2 {
     font-size: 12px;
-    margin: auto;
+
 }
 .navbar-collapse {  
 margin-left: 80%;
