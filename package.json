@@ -1,0 +1,23 @@
+{
+  "name": "Personal-Portfolio",
+  "version": "1.0.0",
+  "description": "https://tashashrader.github.io/Personal-Portfolio/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TashaShrader/Personal-Portfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TashaShrader/Personal-Portfolio/issues"
+  },
+  "homepage": "https://github.com/TashaShrader/Personal-Portfolio#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}

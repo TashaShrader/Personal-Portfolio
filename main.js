@@ -1,9 +1,7 @@
 
-
 $("#wireframe").on('click', function () {
     window.location = "https://tashashrader.github.io/HW-Wireframe/";
 })
-
 $("#scratch").on('click', function () {
     window.location = "https://github.com/minstp201901fsf3-ft/ScratchMatch";
 })
@@ -13,8 +11,6 @@ $("#crystal").on('click', function () {
 $("#gify").on('click', function () {
     window.location = "https://tashashrader.github.io/GifTastic/";
 });
-
-
 $("#movie").on('click', function() {
     window.location = "https://tashashrader.github.io/MovieSurvey";
 })
