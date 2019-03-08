@@ -55,8 +55,7 @@ body {
     margin-top: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
-    margin-left: auto;
-    margin-right: auto;
+  
     }
     
     hr {
@@ -70,29 +69,54 @@ body {
 
     }
         
-    .row {
-    font-family: 'Major Mono Display', monospace;
-    font-size: 20px;
-    }
+
+
+ #know {
+  padding-left: 60px;
+  margin-left: 50px;
+  margin-bottom: 5px;
+ text-decoration: underline;
+ font-family: 'Audiowide', cursive;
+ font-size: 30px;
+ }
+
+#check {
+padding-top: 10px;
+
+}
+
+#lists {
+    margin-top: 0px;
+    margin-left: 10%;
+    font-family: 'Nanum Gothic', sans-serif;
+}
     #first {
-        float: right;
+        margin-left: 0;
+        margin-top: 25px;
+        width: 70%;
+        font-size: 20px;
+        font-family: 'Roboto Mono', monospace;
     }
     .me {
     width: 250px;
     margin: 10px;
     padding: 10px;
-    float: left;
+
     }
-    
+    #second {
+        padding-top: 25px;
+    }
     h2 {
-    font-family: 'Major Mono Display', monospace;
-    font-size: 15px;
+    font-family: 'Luckiest Guy', cursive;
+    font-size: 20px;
     font-weight: 500;
-    text-align: left;
-    margin: 10px;
-    padding: 10px;
+   padding: 2px;
+   
     line-height: 25px;
+    text-align: center;
     }
+
+
         
     /* contact */
     
@@ -159,4 +183,8 @@ border-color: black;
     font-family: 'Luckiest Guy', cursive;
     font-family: 'Monoton', cursive;
     font-family: 'Bangers', cursive;
-    font-family: 'Audiowide', cursive; */
+    font-family: 'Audiowide', cursive;
+    font-family: 'Roboto Mono', monospace;
+font-family: 'Nanum Gothic', sans-serif;
+    */
+
