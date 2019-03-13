@@ -11,19 +11,19 @@ $("#crystal").on('click', function () {
 $("#gify").on('click', function () {
     window.location = "https://tashashrader.github.io/GifTastic/";
 });
-$("#movie").on('click', function() {
+$("#movie").on('click', function () {
     window.location = "https://tashashrader.github.io/MovieSurvey";
 })
-$('#liri').on('click', function(){
-  window.location= "https://github.com/TashaShrader/liri-node-app";
+$('#liri').on('click', function () {
+    window.location = "https://github.com/TashaShrader/liri-node-app";
 })
-$('#bamazon').on('click', function(){
-    window.location= "https://github.com/TashaShrader/bamazon";
-    })
-$('#friend-finder').on('click', function(){
-window.location= "https://friendfinder019.herokuapp.com/";
+$('#bamazon').on('click', function () {
+    window.location = "https://github.com/TashaShrader/bamazon";
+})
+$('#friend-finder').on('click', function () {
+    window.location = "https://friendfinder019.herokuapp.com/";
 })
 
-$('#blog').on('click', function(){
-    window.location= "";
-    })
+$('#blog').on('click', function () {
+    window.location = "";
+})
