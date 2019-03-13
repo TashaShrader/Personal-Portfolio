@@ -23,3 +23,7 @@ $('#bamazon').on('click', function(){
 $('#friend-finder').on('click', function(){
 window.location= "https://friendfinder019.herokuapp.com/";
 })
+
+$('#blog').on('click', function(){
+    window.location= "";
+    })
