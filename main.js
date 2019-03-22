@@ -1,5 +1,5 @@
 
-$("#wireframe").on('click', function () {
+$("#wire").on('click', function () {
     window.location = "https://tashashrader.github.io/HW-Wireframe/";
 })
 $("#scratch").on('click', function () {

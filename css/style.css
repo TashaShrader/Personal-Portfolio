@@ -80,6 +80,7 @@ font-family: 'Roboto Mono', monospace;
 width: 250px;
 margin: 10px;
 padding: 10px;
+border-radius: 20px;
 }
 #second {
 padding-top: 25px;
@@ -94,7 +95,12 @@ text-align: center;
 }
 
 /* contact */
-
+#phoney {
+    height: 25px;
+}
+#emaily {
+    height: 25px;
+}
 input[type=message] {
 padding-bottom: 200px;
 padding-top: 20px;
@@ -149,19 +155,39 @@ background: grey;
 }
 
 @media only screen and (max-width: 991px) {
+button {
+    margin-left: 85%;
+    margin-top: 40px;
+}
 #navbutton {
 margin-left: 80%;
 margin-top: 30px;
-margin-bottom: 1px;
+margin-bottom: 5px;
 border-color: black;
 }
 .me {
-margin-left: 5%;
+margin-top: -17%;
+width: 18%;
+margin-right: 0;
+
+margin-left: 47%;
+border-radius: 20px;
+position: absolute;
+
+
 }
 #first {
-margin: auto;
+margin-left: 20px;
 font-size: 10px;
+margin-top: 10px;
+width: 80%;
+
 }
+
+#check {
+    font-size: 10px;
+}
+
 #know {
 margin-left: auto;
 font-size: 12px;
@@ -169,22 +195,65 @@ font-size: 12px;
 #lists {
 margin-top: 2px;
 font-size: 10px;
+float: left;
+width: 90%;
 }
 h2 {
 font-size: 12px;
 }
-.row {
+/* .row {
 margin-left: 5%;
-}
+} */
 .navbar-collapse {  
 margin-left: 80%;
 margin-bottom: 1px;
+
+}
+.nav-link {
+    font-size: 10px;
+}
+
+
+.show {
+    margin-top: 7px;
+text-align: right;
+
 }
 .title {
 margin-top: 0px;
 }
+.contacts {
+ height: 75px;
+ background: whitesmoke;
+
+}
+#phone {
+    width: 70%;
+    margin-left: 5px;
+    float: left;
+    font-size: 17px;
+}
+
+#clicker {
+    font-size: 10px;
+    margin-left: 65px;
+}
 
 
+#email {
+    width: 70%;
+    margin-left: 5px;
+    float: left;
+    margin-top: 10px;
+    font-size: 17px;
+
+}
+#wireframe {
+    width: 50%;
+}
+#projects {
+    margin-left: 30px;
+}
 
 /*fonts
 font-family: 'Charm', cursive;
