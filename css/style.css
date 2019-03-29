@@ -159,8 +159,8 @@ button {
     margin-left: 85%;
     margin-top: 40px;
 }
-#navbutton {
-margin-left: 80%;
+.navbar-toggler {
+margin-left: 85%;
 margin-top: 30px;
 margin-bottom: 5px;
 border-color: black;
@@ -215,7 +215,7 @@ margin-bottom: 1px;
 
 
 .show {
-    margin-top: 7px;
+margin-top: 5px;
 text-align: right;
 
 }
@@ -253,6 +253,7 @@ margin-right: 20px;
 .navbar-brand {
     margin-top: 3%;
    margin-left: 7%;
+   
 }
 
 /*fonts
